@@ -52,7 +52,7 @@ def choose_charset(name_or_chars):
 def main():
     p = argparse.ArgumentParser(description="Convert an image to American Standard Code for Information Interchange art (Marc Andreessen Edition)")
     p.add_argument("--image", "-i", help="Path to input image (e.g., assets/Marc.png)")
-    p.add_argument("--width", "-w", type=int, default=100, help="Output width in characters")
+    p.add_argument("--width", "-w", type=int, default=100, help="Output Width in Characters")
     p.add_argument("--charset", "-c", default="default", help="Charset preset name or custom string")
     p.add_argument("--animate", action="store_true", help="Animate rendering line-by-line")
     p.add_argument("--speed", type=float, default=0.002, help="Delay (seconds) between lines when animating")
