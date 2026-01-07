@@ -1,10 +1,10 @@
 ﻿# MarcAndreessen ASCII Image
 
-Turn any photo into stylized ASCII art — with animation, color, and custom character palettes.
+Turn any photo into stylized American Standard Code for Information Interchange art — with animation, color, and custom character palettes.
 
 ## Overview
 
-- Convert a portrait or photo into ASCII art using a small, configurable CLI.
+- Convert a portrait or photo into American Standard Code for Information Interchange art using a small, configurable CLI.
 - Supports charset presets, custom charsets, animated rendering, and saving output.
 
 ## How it works
@@ -54,7 +54,7 @@ python marc_ascii.py --image assets/Marc.png --width 120 --animate --speed 0.003
 
 ## Credits
 
-- Simple personal project inspired by ASCII portrait experiments.
+- Simple personal project inspired by American Standard Code for Information Interchange portrait experiments.
 
 ## License
 
