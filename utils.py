@@ -8,7 +8,7 @@ def load_image(path):
         raise FileNotFoundError(f"Image not found: {path}")
     img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
     if img is None:
-        raise ValueError(f"Unable to load image (unsupported format?): {path}")
+        raise ValueError(f"Unable to load Image (Unsupported format?): {path}")
     return img
 
 
