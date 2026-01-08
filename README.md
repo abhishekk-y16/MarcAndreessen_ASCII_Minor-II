@@ -9,7 +9,7 @@ Turn any photo into stylized American Standard Code for Information Interchange 
 
 ## How it works
 
-- Loads an Image with OpenCV, converts to grayscale, scales to a user-specified width, maps pixel brightness to characters from a charset, and prints/saves the resulting lines.
+- Loads an Image with OpenCV, converts to Grayscale, scales to a user-specified width, maps pixel brightness to characters from a charset, and prints/saves the resulting lines.
 
 ## Quick start
 
