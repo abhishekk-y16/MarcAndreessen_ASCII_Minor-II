@@ -41,7 +41,7 @@ python marc_ascii.py --image assets/Marc.png --width 120 --animate --speed 0.003
 ## Notes
 
 - The Project uses OpenCV (`opencv-python`) to load and scale images (grayscale). The implementation previously mentioned Pillow; OpenCV is used here.
-- Filenames on Windows are case-insensitive, but examples use `assets/Marc.png` — adjust to your actual filename.
+- Filenames on Windows are case-insensitive, but examples use `assets/Marc.png` — adjust to your actual Filename.
 
 ## Tips
 
