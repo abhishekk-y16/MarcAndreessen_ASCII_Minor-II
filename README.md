@@ -9,7 +9,7 @@ Turn any photo into stylized American Standard Code for Information Interchange 
 
 ## How it works
 
-- Loads an Image with OpenCV, converts to Grayscale, scales to a user-specified width, maps pixel brightness to characters from a charset, and prints/saves the resulting lines.
+- Loads an Image with OpenCV, converts to Grayscale, scales to a user-specified width, maps pixel brightness to characters from a charset, and prints/saves the resulting Lines.
 
 ## Quick start
 
@@ -40,7 +40,7 @@ python marc_ascii.py --image assets/Marc.png --width 120 --animate --speed 0.003
 
 ## Notes
 
-- The project uses OpenCV (`opencv-python`) to load and scale images (grayscale). The implementation previously mentioned Pillow; OpenCV is used here.
+- The Project uses OpenCV (`opencv-python`) to load and scale images (grayscale). The implementation previously mentioned Pillow; OpenCV is used here.
 - Filenames on Windows are case-insensitive, but examples use `assets/Marc.png` — adjust to your actual filename.
 
 ## Tips
