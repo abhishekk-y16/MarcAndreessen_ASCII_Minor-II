@@ -50,7 +50,7 @@ python marc_ascii.py --image assets/Marc.png --width 120 --animate --speed 0.003
 
 ## Contributing
 
-- Open an issue or PR to suggest new features (Presets, progressive reveal modes, terminal auto-detection).
+- Open an Issue or PR to suggest new features (Presets, progressive reveal modes, terminal auto-detection).
 
 ## Credits
 
