@@ -29,7 +29,7 @@ python marc_ascii.py --image assets/Marc.png --width 120 --animate --speed 0.003
 
 ## Options
 
-- `--image` / `-i`: Path to input image
+- `--image` / `-i`: Path to Input image
 - `--width` / `-w`: Output width in characters (default: 100)
 - `--charset` / `-c`: Preset name (`default`, `detailed`, `simple`) or a custom charset string
 - `--animate`: Print lines with a delay for progressive reveal
