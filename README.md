@@ -1,6 +1,6 @@
 ﻿# MarcAndreessen ASCII Image
 
-Turn any photo into stylized American Standard Code for Information Interchange art — with animation, color, and custom Character Palettes.
+Turn any Photo into stylized American Standard Code for Information Interchange art — with animation, color, and custom Character Palettes.
 
 ## Overview
 
