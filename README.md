@@ -4,7 +4,7 @@ Turn any photo into stylized American Standard Code for Information Interchange 
 
 ## Overview
 
-- Convert a portrait or photo into American Standard Code for Information Interchange art using a small, configurable CLI.
+- Convert a portrait or photo into American Standard Code for Information Interchange art using a Small, configurable CLI.
 - Supports charset presets, custom charsets, animated rendering, and saving output.
 
 ## How it works
